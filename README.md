@@ -1,5 +1,6 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
-
+## 
+“ATO_NFTMARKETPLACE1” – is a full-fledged NFT or Digital assets marketplace website React Js Template. It is suitable for selling NFTs, non-fungible tokens, Digital Arts, Digital Music & All types of Digital Assets on marketplace websites. You can create, sell & collect NFTs or digital assets through this website. It is nicely designed with better UX and modern features also coded with the latest technology. The user-friendly Interface functionality of “ATO_NFTMARKETPLACE1” allows people to get acquainted with NFT in detail and buy from one of their purposes. Anyone can easily collect, sell & buy digital assets or arts via cryptocurrencies (like BSC, Matic, Ethereum Based). The uniqueness of the modern look and feel of “ATO_NFTMARKETPLACE1” will take your business to the next level.
 ## Getting Started
 
 First, run the development server:
